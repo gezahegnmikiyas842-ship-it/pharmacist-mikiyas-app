@@ -1,0 +1,6 @@
+{
+  "name": "Pharmacist Mikiyas",
+  "description": "Comprehensive clinical pharmacy platform, AI clinical assistant, drug interaction checker, medical calculators, portfolio, and learning center.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
